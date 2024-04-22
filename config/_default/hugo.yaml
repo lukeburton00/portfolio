@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://chrede88.github.io/qubt'
-title: 'Qubt Theme'
+baseURL: 'https://lsburton.com'
+title: 'Luke Burton'
 
 ############################
 ## MISC
@@ -12,5 +12,3 @@ title: 'Qubt Theme'
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
 languageCode: 'en-us'
-
-
